@@ -1,3 +1,3 @@
-#Sat Jul 30 20:52:07 CEST 2011
-cmdhistory=["(run-tests)" "(run-test)" "(run-tests 'AFizzBuzzShould')" "(run-tests 'AFizzBuzzShould)" "(run-tests)"]
+#Sat Jul 30 21:30:41 CEST 2011
+cmdhistory=["(run-tests)" "(run-test)" "(run-tests 'AFizzBuzzShould')" "(run-tests 'AFizzBuzzShould)" "(run-tests)" ";; Switching to AFizzBuzzShould namespace" "(run-tests)" ";; Loading file test\\\\AFizzBuzzShould.clj" "(run-tests)" ";; Switching to AFizzBuzzShould namespace" "(run-tests)" ";; Loading file test\\\\AFizzBuzzShould.clj" "(run-tests)" "(ccw.debug.serverrepl/with-exception-serialization (clojure.core/binding [clojure.core/*compile-path* \\"classes\\"] (clojure.core/compile 'AFizzBuzzShould)))" "(run-tests)" "(ccw.debug.serverrepl/with-exception-serialization (clojure.core/binding [clojure.core/*compile-path* \\"classes\\"] (clojure.core/compile 'AFizzBuzzShould)))" "(run-tests)" "(ccw.debug.serverrepl/with-exception-serialization (clojure.core/binding [clojure.core/*compile-path* \\"classes\\"] (clojure.core/compile 'AFizzBuzzShould)))" "(run-tests)"]
 eclipse.preferences.version=1
