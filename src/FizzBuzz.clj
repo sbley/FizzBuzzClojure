@@ -1,2 +1,2 @@
 (ns FizzBuzz)
-(defn fizzbuzz [number] 0)
+(defn fizzbuzz [number] number)
