@@ -5,3 +5,5 @@
   (is (= 2  (fizzbuzz 2))))
 (deftest returnFizzForInput3
   (is (= 'fizz  (fizzbuzz 3))))
+(deftest returnBuzzForInput5
+  (is (= 'buzz  (fizzbuzz 5))))
